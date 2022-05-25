@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3_UniteTest_Moq_ParkCar", "Lab3_UniteTest_Moq_ParkCar\Lab3_UniteTest_Moq_ParkCar.csproj", "{3CF71619-C802-4133-A570-726B2D9EB27D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingMoqTest", "ParkingMoqTest\ParkingMoqTest.csproj", "{F88E1F93-9A31-46B0-B733-4A22709DC978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CF71619-C802-4133-A570-726B2D9EB27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF71619-C802-4133-A570-726B2D9EB27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF71619-C802-4133-A570-726B2D9EB27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF71619-C802-4133-A570-726B2D9EB27D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F88E1F93-9A31-46B0-B733-4A22709DC978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88E1F93-9A31-46B0-B733-4A22709DC978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88E1F93-9A31-46B0-B733-4A22709DC978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88E1F93-9A31-46B0-B733-4A22709DC978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9AFFEB9-4BC7-4B6E-B6F6-F3E63938507D}
+	EndGlobalSection
+EndGlobal

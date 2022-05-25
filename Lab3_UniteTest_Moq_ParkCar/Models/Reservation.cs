@@ -1,0 +1,14 @@
+﻿namespace Lab3_UniteTest_Moq_ParkCar.Models
+{
+    public class Reservation
+    {
+        public int ID { get; set; }
+        public int ParkingSpotID { get; set; }
+        public virtual ParkingSpot ParkingSpot { get; set; }
+        public int VehicleID { get; set; }
+        public virtual Vehicle Vehicle { get; set; }
+        public DateTime Expiry { get; set; }
+        public bool IsCurrent { get; set; }
+
+    }
+}
